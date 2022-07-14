@@ -1,2 +1,0 @@
-api: bundle exec rails server -p 3000
-web: npm --cwd tdlist-app start
